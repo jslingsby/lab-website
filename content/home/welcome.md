@@ -1,9 +1,9 @@
 ---
-widget: hero
+widget: blank
 widget_id: LandingPage
 headless: true
 weight: 10
-title: Plant Ecology UCT
+title: Plant Ecology Lab UCT
 hero_media: welcome.jpg
 design:
   columns: "1"
@@ -12,7 +12,6 @@ design:
   background:
     image: p1010228.jpeg
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Combining old school ecology with modern methods at the University of Cape Town
