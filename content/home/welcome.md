@@ -6,7 +6,7 @@ weight: 10
 title: Plant Ecology Lab UCT
 hero_media: welcome.jpg
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
   background:
