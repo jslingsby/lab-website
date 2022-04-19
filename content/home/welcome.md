@@ -12,16 +12,3 @@ design:
   background:
     image: p1010228.jpeg
 ---
-<br>
-
-
-
-Combining old school ecology with modern methods at the University of Cape Town
-
-
-
-<br>
-
-
-
-<br>
